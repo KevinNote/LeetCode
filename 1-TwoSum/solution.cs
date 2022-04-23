@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/two-sum/
+// E https://leetcode.com/problems/two-sum/
 
 // BF solution
 public class Solution {
